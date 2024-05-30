@@ -9,14 +9,19 @@ I have a passion for cybersecurity and I am eager to start working in this field
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/larryklingaman3/Detection-Lab/tree/main">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                         | Associated Project         | Description        |
+|-----------------------------------------------|----------------------------|--------------------| 
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/larryklingaman3/Detection-Lab/tree/main">Detection Lab</a>| Deployment and configuration of SIEM systems, log collection, normalization, analysis, alert creation and tuning, incident investigation, understanding log formats and sources (e.g., Windows Event Logs, Syslog).
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>| Setup and configuration of network monitoring tools, capturing and analyzing network traffic, use of IDS/IPS, understanding network protocols, detection and analysis of network-based attacks (e.g., DDoS, port scanning).
+| Security Automation with Shuffle SOAR         | SOC Automation Lab| Implementation and use of SOAR tools, automation of repetitive tasks, integration of security tools and platforms, development of automated response playbooks, monitoring and maintaining automation processes.
+| Incident Response Planning and Execution      | SOC Automation Lab| Development and execution of incident response plans and drills, identification and classification of incidents, coordination with stakeholders, documentation, and post-incident analysis for improvement.
+| Case Management with TheHive                  | SOC Automation Lab| Deployment and configuration of TheHive case management system, creation and management of security incident cases, tracking and documentation of incident response activities.
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab| Use of scripting languages (e.g., Python, PowerShell) for automating threat mitigation processes, development of scripts for task automation, integration with security tools.
+| Malware Analysis | Malware Analysis Lab | Setup of malware analysis lab using VirtualBox with FlareVM and Remnux, conducting static and dynamic malware analysis, use of tools such as Wireshark, Procmon, PE View, Floss, VirusTotal, Remnux, InetSim, and PE Studio.
+| Vulnerability Management | Vulnerability Management with Nessus | Installation and configuration of Nessus Essentials, performing non-credentialed and credentialed vulnerability scans, remediation of vulnerabilities, setting up recurring scans.
+| Active Directory Management | Active Directory Home Lab | Setup of Active Directory on Windows Server 2019, use of PowerShell for automatic provisioning, maintenance, and deprovisioning of user accounts.
+| Password Generation and Security | Password Generator with Python | Design of a Python program to generate secure passwords of specified length, inclusion of various character types, additional functionality for password complexity scoring.
+
 
 ## Tools
 
