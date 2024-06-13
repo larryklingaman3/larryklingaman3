@@ -1,5 +1,8 @@
 # Hello, I'm Larry
-<a href="www.linkedin.com/in/larry-klingaman-7189282b5"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/larry-klingaman-7189282b5">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 
 I am a fourth year student at California State University, San Bernardino with a profound interest in cybersecurity and a dedication to furthering my knowledge.
 
