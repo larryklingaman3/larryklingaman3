@@ -8,7 +8,7 @@ I am a fourth year student at California State University, San Bernardino with a
 
 ## Objective
 
-I have a passion for cybersecurity and I am eager to start working in this field. Specifically, I am aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I have a passion for cybersecurity and I am eager to start working in this field. Specifically, I am striving towards becoming a Tier 1 Cybersecurity Analyst.
 
 ## Skills and Projects
 
