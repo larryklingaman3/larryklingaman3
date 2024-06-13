@@ -32,19 +32,25 @@ I have a passion for cybersecurity and I am eager to start working in this field
 
 ## Network/Linux
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-007ACC?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Metasploit-03A9F4?&style=for-the-badge&logo=Metasploit&logoColor=white" />
-    <img src="https://img.shields.io/badge/-KaliLinux-557C94?&style=for-the-badge&logo=KaliLinux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Hydra-4CAF50?&style=for-the-badge&logo=Hydra&logoColor=white" />
-    <img src="https://img.shields.io/badge/-JohnTheRipper-9C27B0?&style=for-the-badge&logo=JohnTheRipper&logoColor=white" />
-    <img src="https://img.shields.io/badge/-theHarvester-F44336?&style=for-the-badge&logo=theHarvester&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-2196F3?&style=for-the-badge&logo=Nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AutoRuns-007ACC?&style=for-the-badge&logo=AutoRuns&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PEStudio-03A9F4?&style=for-the-badge&logo=PEStudio&logoColor=white" />
-    <img src="https://img.shields.io/badge/-REMnux-557C94?&style=for-the-badge&logo=REMnux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Process%20Monitor-4CAF50?&style=for-the-badge&logo=Process-Monitor&logoColor=white" />
-    <img src="https://img.shields.io/badge/-VirusTotal-9C27B0?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Putty-023D8A?&style=for-the-badge&logo=Putty&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wireshark-2C3E50?style=for-the-badge&logo=Wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-Metasploit-2C3E50?style=for-the-badge&logo=Metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/-AutoRuns-2C3E50?style=for-the-badge&logo=AutoRuns&logoColor=white" />
+<img src="https://img.shields.io/badge/-PEStudio-2C3E50?style=for-the-badge&logo=PEStudio&logoColor=white" />
+<img src="https://img.shields.io/badge/-KaliLinux-3498DB?style=for-the-badge&logo=KaliLinux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Hydra-3498DB?style=for-the-badge&logo=Hydra&logoColor=white" />
+<img src="https://img.shields.io/badge/-JohnTheRipper-3498DB?style=for-the-badge&logo=JohnTheRipper&logoColor=white" />
+<img src="https://img.shields.io/badge/-theHarvester-3498DB?style=for-the-badge&logo=theHarvester&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nmap-3498DB?style=for-the-badge&logo=Nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/-REMnux-27AE60?style=for-the-badge&logo=REMnux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Process%20Monitor-27AE60?style=for-the-badge&logo=Process-Monitor&logoColor=white" />
+<img src="https://img.shields.io/badge/-VirusTotal-27AE60?style=for-the-badge&logo=VirusTotal&logoColor=white" />
+<img src="https://img.shields.io/badge/-Putty-27AE60?style=for-the-badge&logo=Putty&logoColor=white" />
+<img src="https://img.shields.io/badge/-Floss-8E44AD?style=for-the-badge&logo=Floss&logoColor=white" />
+<img src="https://img.shields.io/badge/-Inetsim-8E44AD?style=for-the-badge&logo=Inetsim&logoColor=white" />
+<img src="https://img.shields.io/badge/-Procmon-8E44AD?style=for-the-badge&logo=Procmon&logoColor=white" />
+
+
+
 
 </div>
 
