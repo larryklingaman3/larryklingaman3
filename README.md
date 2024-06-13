@@ -19,25 +19,30 @@ I have a passion for cybersecurity and I am eager to start working in this field
 
 ## Tools
 
-### Network
+### SIEM/SOAR
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nessus-002def?&style=for-the-badge&logo=Nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-4A154B?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-0298DB?&style=for-the-badge&logo=Nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-F57C00?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+
 </div>
 
-### Endpoint
+## Network/Linux
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+    <img src="https://img.shields.io/badge/-Wireshark-007ACC?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-03A9F4?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-KaliLinux-557C94?&style=for-the-badge&logo=KaliLinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hydra-4CAF50?&style=for-the-badge&logo=Hydra&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JohnTheRipper-9C27B0?&style=for-the-badge&logo=JohnTheRipper&logoColor=white" />
+    <img src="https://img.shields.io/badge/-theHarvester-F44336?&style=for-the-badge&logo=theHarvester&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-2196F3?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AutoRuns-007ACC?&style=for-the-badge&logo=AutoRuns&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PEStudio-03A9F4?&style=for-the-badge&logo=PEStudio&logoColor=white" />
+    <img src="https://img.shields.io/badge/-REMnux-557C94?&style=for-the-badge&logo=REMnux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Process%20Monitor-4CAF50?&style=for-the-badge&logo=Process-Monitor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirusTotal-9C27B0?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Putty-023D8A?&style=for-the-badge&logo=Putty&logoColor=white" />
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications
