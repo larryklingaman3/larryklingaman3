@@ -48,6 +48,7 @@ I have a passion for cybersecurity and I am eager to start working in this field
 <img src="https://img.shields.io/badge/-Floss-8E44AD?style=for-the-badge&logo=Floss&logoColor=white" />
 <img src="https://img.shields.io/badge/-Inetsim-8E44AD?style=for-the-badge&logo=Inetsim&logoColor=white" />
 <img src="https://img.shields.io/badge/-Procmon-8E44AD?style=for-the-badge&logo=Procmon&logoColor=white" />
+<img src="https://img.shields.io/badge/-BurpSuite-8E44AD?style=for-the-badge&logo=BurpSuite&logoColor=white" />
 
 
 
