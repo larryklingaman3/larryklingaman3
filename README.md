@@ -49,10 +49,6 @@ I have a passion for cybersecurity and I am eager to start working in this field
 <img src="https://img.shields.io/badge/-Inetsim-8E44AD?style=for-the-badge&logo=Inetsim&logoColor=white" />
 <img src="https://img.shields.io/badge/-Procmon-8E44AD?style=for-the-badge&logo=Procmon&logoColor=white" />
 <img src="https://img.shields.io/badge/-BurpSuite-8E44AD?style=for-the-badge&logo=BurpSuite&logoColor=white" />
-
-
-
-
 </div>
 
 ## Certifications
@@ -61,4 +57,13 @@ I have a passion for cybersecurity and I am eager to start working in this field
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
+
+## Try Hack Me
+<div>
+
+![THM-1CLEUIW7CY](https://github.com/user-attachments/assets/d0de0a7a-4389-4054-8a28-b5a56fd69cc9)
+![THM-UL4QSOLYGI](https://github.com/user-attachments/assets/205ce4f5-7e3e-40de-a1f3-515134c3b250)
+  
+</div>
+
 
