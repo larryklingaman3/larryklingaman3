@@ -22,41 +22,55 @@ I have a passion for cybersecurity and I am eager to start working in this field
 
 ## Tools
 
-### SIEM/SOAR
+### Vulnerability Management
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-4A154B?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nessus-0298DB?&style=for-the-badge&logo=Nessus&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-F57C00?&style=for-the-badge&logo=Wazuh&logoColor=white" />
-
+    <img src="https://img.shields.io/badge/-Elastic-28A745?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-28A745?&style=for-the-badge&logo=Nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Osquery-28A745?&style=for-the-badge&logo=Osquery&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-28A745?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-28A745?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
-## Network/Linux
+### Network Traffic Analysis
 <div>
-<img src="https://img.shields.io/badge/-Wireshark-2C3E50?style=for-the-badge&logo=Wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/-Metasploit-2C3E50?style=for-the-badge&logo=Metasploit&logoColor=white" />
-<img src="https://img.shields.io/badge/-AutoRuns-2C3E50?style=for-the-badge&logo=AutoRuns&logoColor=white" />
-<img src="https://img.shields.io/badge/-PEStudio-2C3E50?style=for-the-badge&logo=PEStudio&logoColor=white" />
-
-<img src="https://img.shields.io/badge/-KaliLinux-3498DB?style=for-the-badge&logo=KaliLinux&logoColor=white" />
-<img src="https://img.shields.io/badge/-Hydra-3498DB?style=for-the-badge&logo=Hydra&logoColor=white" />
-<img src="https://img.shields.io/badge/-JohnTheRipper-3498DB?style=for-the-badge&logo=JohnTheRipper&logoColor=white" />
-<img src="https://img.shields.io/badge/-theHarvester-3498DB?style=for-the-badge&logo=theHarvester&logoColor=white" />
-<img src="https://img.shields.io/badge/-Nmap-3498DB?style=for-the-badge&logo=Nmap&logoColor=white" />
-
-<img src="https://img.shields.io/badge/-Gobuster-27AE60?style=for-the-badge&logo=Gobuster&logoColor=white" />
-<img src="https://img.shields.io/badge/-REMnux-27AE60?style=for-the-badge&logo=REMnux&logoColor=white" />
-<img src="https://img.shields.io/badge/-Process%20Monitor-27AE60?style=for-the-badge&logo=Process-Monitor&logoColor=white" />
-<img src="https://img.shields.io/badge/-VirusTotal-27AE60?style=for-the-badge&logo=VirusTotal&logoColor=white" />
-<img src="https://img.shields.io/badge/-Putty-27AE60?style=for-the-badge&logo=Putty&logoColor=white" />
-
-<img src="https://img.shields.io/badge/-Floss-8E44AD?style=for-the-badge&logo=Floss&logoColor=white" />
-<img src="https://img.shields.io/badge/-Inetsim-8E44AD?style=for-the-badge&logo=Inetsim&logoColor=white" />
-<img src="https://img.shields.io/badge/-Procmon-8E44AD?style=for-the-badge&logo=Procmon&logoColor=white" />
-<img src="https://img.shields.io/badge/-BurpSuite-8E44AD?style=for-the-badge&logo=BurpSuite&logoColor=white" />
-<img src="https://img.shields.io/badge/-Gophish-8E44AD?style=for-the-badge&logo=Gophish&logoColor=white" />
-
-
+    <img src="https://img.shields.io/badge/-Brim-4C88B9?&style=for-the-badge&logo=Brim&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NetworkMiner-4C88B9?&style=for-the-badge&logo=NetworkMiner&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-4C88B9?&style=for-the-badge&logo=Snort&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-4C88B9?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tshark-4C88B9?&style=for-the-badge&logo=Tshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-4C88B9?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-4C88B9?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
+
+### Cyber Threat Intelligence
+<div>
+    <img src="https://img.shields.io/badge/-AlienVault-1F9A8E?&style=for-the-badge&logo=AlienVault&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hybrid%20Analysis-1F9A8E?&style=for-the-badge&logo=Hybrid-Analysis&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MISP-1F9A8E?&style=for-the-badge&logo=MISP&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenCTI-1F9A8E?&style=for-the-badge&logo=OpenCTI&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Robtex-1F9A8E?&style=for-the-badge&logo=Robtex&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ThreatMiner-1F9A8E?&style=for-the-badge&logo=ThreatMiner&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirusTotal-1F9A8E?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Yara-1F9A8E?&style=for-the-badge&logo=Yara&logoColor=white" />
+</div>
+
+### Offensive Security
+<div>
+    <img src="https://img.shields.io/badge/-Burp%20Suite-DAA520?&style=for-the-badge&logo=Burp-Suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ffuf-DAA520?&style=for-the-badge&logo=Ffuf&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GoPhish-DAA520?&style=for-the-badge&logo=GoPhish&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gobuster-DAA520?&style=for-the-badge&logo=Gobuster&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hashcat-DAA520?&style=for-the-badge&logo=Hashcat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hydra-DAA520?&style=for-the-badge&logo=Hydra&logoColor=white" />
+    <img src="https://img.shields.io/badge/-John%20the%20Ripper-DAA520?&style=for-the-badge&logo=John-the-Ripper&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-DAA520?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-DAA520?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQLmap-DAA520?&style=for-the-badge&logo=SQLmap&logoColor=white" />
+</div>
+
+
+
+
 
 ## Certifications
 <div>
