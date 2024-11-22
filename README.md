@@ -54,6 +54,21 @@ I have a passion for cybersecurity and I am eager to start working in this field
     <img src="https://img.shields.io/badge/-Yara-1F9A8E?&style=for-the-badge&logo=Yara&logoColor=white" />
 </div>
 
+### Digital Forensics Incident Response
+<div>
+    <img src="https://img.shields.io/badge/-Autopsy-8A2BE2?&style=for-the-badge&logo=Autopsy&logoColor=white" />
+    <img src="https://img.shields.io/badge/-DiskDigger-8A2BE2?&style=for-the-badge&logo=DiskDigger&logoColor=white" />
+    <img src="https://img.shields.io/badge/-EZTools-8A2BE2?&style=for-the-badge&logo=EZTools&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FTK%20Imager-8A2BE2?&style=for-the-badge&logo=FTK-Imager&logoColor=white" />
+    <img src="https://img.shields.io/badge/-KAPE-8A2BE2?&style=for-the-badge&logo=KAPE&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Paraben%20E3-8A2BE2?&style=for-the-badge&logo=Paraben-E3&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Redline-8A2BE2?&style=for-the-badge&logo=Redline&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TheHive-8A2BE2?&style=for-the-badge&logo=TheHive&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-8A2BE2?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Volatility-8A2BE2?&style=for-the-badge&logo=Volatility&logoColor=white" />
+</div>
+
+
 ### Offensive Security
 <div>
     <img src="https://img.shields.io/badge/-Burp%20Suite-DAA520?&style=for-the-badge&logo=Burp-Suite&logoColor=white" />
