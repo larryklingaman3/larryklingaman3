@@ -108,6 +108,7 @@ I have a passion for cybersecurity and I am eager to start working in this field
 ## Try Hack Me (Blue Team)
 <div>
   
+![image](https://github.com/user-attachments/assets/92b29cc6-e420-4030-be48-110857778291)
 
-  
+
 </div>
