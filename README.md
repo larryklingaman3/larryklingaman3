@@ -84,22 +84,39 @@ I have a passion for cybersecurity and I am eager to start working in this field
 </div>
 
 
-## Certifications
+## 🛡️ CompTIA Certifications   
+🔗 [View on GitHub](https://github.com/larryklingaman3/CompTia)
+
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
+
+---
 
 ## 🔴 Try Hack Me – Red Team  
 **Completion Certificates:**  
 🔗 [View on GitHub](https://github.com/larryklingaman3/THM_Red_Team)
+
+<div>
+  <img src="https://img.shields.io/badge/Jr_Penetration_Tester-D9534F?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Fundamentals-D9534F?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pentest%2B-D9534F?style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
 
 ---
 
 ## 🔵 Try Hack Me – Blue Team  
 **Completion Certificates:**  
 🔗 [View on GitHub](https://github.com/larryklingaman3/THM_Blue_Team)
+
+<div>
+  <img src="https://img.shields.io/badge/SOC_Level_1-5BC0DE?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOC_Level_2-5BC0DE?style=for-the-badge&logo=security&logoColor=white" />
+</div>
+
+
 
 
 
