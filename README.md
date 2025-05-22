@@ -4,7 +4,7 @@
 </a>
 
 
-I am a fourth year student at California State University, San Bernardino with a profound interest in cybersecurity and a dedication to furthering my knowledge.
+I recently graduated from California State University, San Bernardino with a B.S in Information Syste,s & Technology with a concentration in Cybersecurity. I have a profound interest in cybersecurity and a dedication to furthering my knowledge. I have the CompTia A+, Network+, and Security+ certifications and I actively participate in TryHackMe Pathways and CTFs.
 
 ## Objective
 
