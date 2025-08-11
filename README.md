@@ -14,10 +14,11 @@ I have a passion for cybersecurity and I am eager to start working in this field
 
 | Skill                                         | Associated Project         | Description        |
 |-----------------------------------------------|----------------------------|--------------------| 
+| Python | <a href="https://github.com/larryklingaman3/Password-Generator-with-Python">Password Generator with Python | Created a Python program to automatically enumerate and exploit common Active Directory vulnerabilities.
 | Malware Analysis | Malware Analysis Lab | Setup of malware analysis lab using VirtualBox with FlareVM and Remnux, conducting static and dynamic malware analysis, use of tools such as Wireshark, Procmon, PE View, Floss, VirusTotal, Remnux, InetSim, and PE Studio.
 | Vulnerability Management | <a href="https://github.com/larryklingaman3/Vulnerability-Management-with-Nessus"> Vulnerability Management with Nessus | Installation and configuration of Nessus Essentials, performing non-credentialed and credentialed vulnerability scans, remediation of vulnerabilities, setting up recurring scans.
 | Active Directory Management | <a href="https://github.com/larryklingaman3/Active-Directory-Home-Lab"> Active Directory Home Lab | Setup of Active Directory on Windows Server 2019, use of PowerShell for automatic provisioning, maintenance, and deprovisioning of user accounts.
-| Password Generation and Security | <a href="https://github.com/larryklingaman3/Password-Generator-with-Python">Password Generator with Python | Design of a Python program to generate secure passwords of specified length, inclusion of various character types, additional functionality for password complexity scoring.
+| Python | <a href="https://github.com/larryklingaman3/Password-Generator-with-Python">Password Generator with Python | Design of a Python program to generate secure passwords of specified length, inclusion of various character types, additional functionality for password complexity scoring.
 | Security Information and Event Management (SIEM) | <a href="https://github.com/larryklingaman3/SIEM-Lab-with-Wazuh">Vulnerability Detection with Wazuh | Setup and configuration of Wazuh, an open-source SIEM solution, including the installation and configuration of both Windows and Linux agents for centralized log collection and analysis, monitoring security events, and generating alerts for potential security incidents.
 
 ## Tools
