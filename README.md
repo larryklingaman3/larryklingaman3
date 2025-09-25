@@ -4,7 +4,7 @@
 </a>
 
 
-I recently graduated from California State University, San Bernardino with a B.S in Information Systems & Technology with a concentration in Cybersecurity. I have a profound interest in red teaming and a dedication to furthering my knowledge. I have the CompTia A+, Network+, and Security+ certifications and I actively participate in TryHackMe Pathways and CTFs.
+I recently graduated from California State University, San Bernardino with a B.S in Information Systems & Technology with a concentration in Cybersecurity. I have a profound interest in red teaming and a dedication to furthering my knowledge in the cybersecurity space. I have the CompTia A+, Network+, and Security+ certifications and I actively participate in TryHackMe Pathways and CTFs.
 
 ## Objective
 
