@@ -12,12 +12,14 @@ I have a passion for cybersecurity and I am eager to start working in this field
 
 ## Skills and Projects
 
-| Skill                                         | Associated Project         | Description        |
-|-----------------------------------------------|----------------------------|--------------------| 
-| Offensive Python | <a href="https://github.com/larryklingaman3/shimada">shimada | Created a Python program to automatically enumerate and exploit common Active Directory vulnerabilities and a vulnerable Active Directory enviornment to test the script against.
-| Cloud Security Monitoring | <a href="https://github.com/larryklingaman3/SOC-Lab-w-Azure-Sentinel/blob/main/README.md">Security Monitoring with Azure Sentinel</a> | Deployment and configuration of Azure resources (VMs, vNETs, resource groups), setup of Log Analytics workspace and Sentinel, collection of Windows Security Events via AMA, creation of KQL queries and Sentinel workbooks for attack visualization and threat monitoring. |
-| Vulnerability Management | <a href="https://github.com/larryklingaman3/Vulnerability-Management-with-Nessus"> Vulnerability Management with Nessus | Installation and configuration of Nessus Essentials, performing non-credentialed and credentialed vulnerability scans, remediation of vulnerabilities, setting up recurring scans.
-| Security Information and Event Management (SIEM) | <a href="https://github.com/larryklingaman3/SIEM-Lab-with-Wazuh">Vulnerability Detection with Wazuh | Setup and configuration of Wazuh, an open-source SIEM solution, including the installation and configuration of both Windows and Linux agents for centralized log collection and analysis, monitoring security events, and generating alerts for potential security incidents.
+| Project Type | Project Name / Link | Description |
+|--------------|-------------------|-------------|
+| Offensive Security Automation | <a href="https://github.com/larryklingaman3/shimada">Shimada</a> | Developed a Python tool to automatically enumerate and exploit common Active Directory vulnerabilities and created a vulnerable AD environment to test and validate the script’s functionality. |
+| Cloud Security Monitoring | <a href="https://github.com/larryklingaman3/SOC-Lab-w-Azure-Sentinel/blob/main/README.md">Security Monitoring with Azure Sentinel</a> | Deployed and configured Azure resources (VMs, vNETs, resource groups), set up Log Analytics and Sentinel, collected Windows Security Events via AMA, and created KQL queries and workbooks to visualize attacks and monitor threats. |
+| Vulnerability Management | <a href="https://github.com/larryklingaman3/Vulnerability-Management-with-Nessus">Vulnerability Management with Nessus</a> | Installed and configured Nessus Essentials, conducted non-credentialed and credentialed scans on Windows 10 hosts, assessed vulnerabilities in third-party software, implemented remediation measures, and set up recurring scans for continuous monitoring. |
+| SIEM & Log Management | <a href="https://github.com/larryklingaman3/SIEM-Lab-with-Wazuh">Vulnerability Detection with Wazuh</a> | Deployed and configured Wazuh SIEM with Windows and Linux agents, centralized log collection, monitored security events, configured alerts and policies, and analyzed logs to detect and respond to potential security incidents. |
+
+
 
 ## Tools
 
